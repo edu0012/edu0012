@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edu0012 🤜
 - 👀 \Eduardo Rodriguez Fuentes/ 👀
-- 🌱 I’m currently learning --> CDT🌱
+- 🌱 I’m currently learning --> CTD🌱
 - 📫 How to reach me --> edu.rod12@gmail.com📫
 
 <!---
