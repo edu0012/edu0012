@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @edu0012 🤜
--  \Eduardo Rodriguez Fuentes/ 
-- 🌱 I’m currently learning --> CTD🌱
+- 👋 Holaaa, soy @edu0012 🤜
+-  \Eduardo Andres Rodriguez Fuentes/ 
+- 🌱actualmente estudianto la certificacion CTD en Digital House --> CTD🌱
+- Experiencias C,C++,C#, JS ,React.js ,Vite, Java,MySQL, IoT(Arduino,Esp32,Raspberry pi)
 - 📫 Contacto --> edu.rod12@gmail.com📫
 
 <!---
