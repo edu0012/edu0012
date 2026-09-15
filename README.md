@@ -1,6 +1,6 @@
 - 👋 Holaaa, soy @edu0012 🤜
 -  \Eduardo Andres Rodriguez Fuentes/ 
-- Experiencias C, C++, C#, JS, React.js, Vite, Java, MySQL, IoT(Home Assistant, Arduino, Esp32, Raspberry Pi, MQTT, Node-Red, InfluxDB, Grafana, Docker, Portainer-CE, n8n, LLM Vision,etc)
+- Experiencias C, C++, C#, JS, React.js, Vite, Java, MySQL, IoT(Home Assistant, ESP IDF, PlatformIO, Esp32, Raspberry Pi, MQTT, Node-Red, InfluxDB, Grafana, Docker, Portainer-CE, n8n, LLM Vision,etc)
 - 📫 Contacto --> edu.rod12@gmail.com📫
 
 <!---
